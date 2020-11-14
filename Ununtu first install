@@ -1,0 +1,1 @@
+apt update -y && sudo apt upgrade -y && apt autoremove -y && sudo apt autoclean -y && apt install nmap -y && apt install locate
